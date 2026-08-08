@@ -1,43 +1,62 @@
+```html
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Alex&fontSize=55&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Information%20Systems%20Management&descAlignY=58&descSize=18"/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Alex+%F0%9F%91%8B;Information+Systems+Management+Student;Building+Web+Experiences+%F0%9F%92%BB" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&center=true&vCenter=true&width=600&lines=Building+Web+Experiences+%F0%9F%92%BB;Turning+Ideas+Into+Digital+Solutions+%E2%9C%A8;Always+Learning.+Always+Building." />
 
 <br>
 
-Final-year **Information Systems Management** student focused on building clean, responsive and functional websites.
+<p>
+Final-year <b>Information Systems Management</b> student<br>
+focused on building clean, responsive and functional websites.
+</p>
 
-<br><br>
+<br>
 
-### ⚡ Tech Stack
+<h3>⚡ Tech Stack</h3>
 
 <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,figma,git,github,vscode" />
 
 <br><br>
 
-### 🚀 What I Do
+<h3>✦ What I Do</h3>
 
-`Web Development` • `UI/UX` • `Data Analytics`
+<p>
+🌐 Web Development &nbsp;•&nbsp;
+🎨 UI/UX &nbsp;•&nbsp;
+📊 Data Analytics
+</p>
 
 <br>
 
 <a href="YOUR_PORTFOLIO_LINK">
-  <img src="https://img.shields.io/badge/PORTFOLIO-View%20My%20Work-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="YOUR_LINKEDIN_LINK">
-  <img src="https://img.shields.io/badge/LINKEDIN-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&rank_icon=github" />
+<h3>📈 My GitHub Journey</h3>
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aqimsyz&hide_border=true&area=true" width="95%"/>
 
 <br>
 
-### `Build • Learn • Improve`
+<h3>🐍 Watch My Contributions Get Eaten</h3>
+
+<img src="https://raw.githubusercontent.com/aqimsyz/aqimsyz/output/github-contribution-grid-snake.svg" />
+
+<br><br>
+
+<h3>
+<code>Think → Design → Build → Improve.</code>
+</h3>
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer"/>
 ```

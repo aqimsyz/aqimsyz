@@ -30,11 +30,11 @@ focused on building clean, responsive and functional websites.
 <br>
 
 <a href="YOUR_PORTFOLIO_LINK">
-<img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="YOUR_LINKEDIN_LINK">
-<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Let%27s%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <br><br>
@@ -43,28 +43,22 @@ focused on building clean, responsive and functional websites.
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aqimsyz&hide_border=true&area=true" width="95%"/>
 
-<br>
-
-<h3>🐍 Watch My Contributions Get Eaten</h3>
-
-<img src="https://raw.githubusercontent.com/aqimsyz/aqimsyz/output/github-contribution-grid-snake.svg" />
-
 <br><br>
-<br>
 
-<h3 align="center">🐍 My Contribution Journey</h3>
+<h3>🐍 My Contribution Journey</h3>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aqimsyz/aqimsyz/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aqimsyz/aqimsyz/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aqimsyz/aqimsyz/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/aqimsyz/aqimsyz/output/github-contribution-grid-snake.svg">
 </picture>
 
+<br><br>
+
 <h3>
-<code>Think → Design → Build → Improve.</code>
+  <code>Think → Design → Build → Improve.</code>
 </h3>
 
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer"/>
-```

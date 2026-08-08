@@ -2,9 +2,11 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&center=true&vCenter=true&width=600&lines=Building+Web+Experiences+%F0%9F%92%BB;Turning+Ideas+Into+Digital+Solutions+%E2%9C%A8;Always+Learning.+Always+Building." />
-
 <br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=1100&pause=400&color=39FF14&background=0D1117&vCenter=true&multiline=true&repeat=true&width=700&height=135&lines=%3E+initializing+aqimsyz...;%3E+loading+web+environment...;%3E+compiling+ideas...;%3E+status%3A+ready+to+build+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25" />
+
+<br><br>
 
 <p>
 Final-year <b>Information Systems Management</b> student<br>

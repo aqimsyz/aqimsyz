@@ -27,7 +27,6 @@ focused on building clean, responsive and functional websites.
 📊 Data Analytics
 </p>
 
-<br>
 <br><br>
 
 <h3>🐍 My Contribution Journey</h3>

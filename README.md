@@ -28,15 +28,6 @@ focused on building clean, responsive and functional websites.
 </p>
 
 <br>
-
-<a href="YOUR_PORTFOLIO_LINK">
-  <img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="YOUR_LINKEDIN_LINK">
-  <img src="https://img.shields.io/badge/LinkedIn-Let%27s%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
 <br><br>
 
 <h3>🐍 My Contribution Journey</h3>

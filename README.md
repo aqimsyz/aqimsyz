@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Alex&fontSize=55&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Information%20Systems%20Management&descAlignY=58&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=AQIM&fontSize=55&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Information%20Systems%20Management&descAlignY=58&descSize=18"/>
 
 <div align="center">
 
@@ -26,22 +26,6 @@ focused on building clean, responsive and functional websites.
 🎨 UI/UX &nbsp;•&nbsp;
 📊 Data Analytics
 </p>
-
-<br>
-
-<a href="YOUR_PORTFOLIO_LINK">
-  <img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="YOUR_LINKEDIN_LINK">
-  <img src="https://img.shields.io/badge/LinkedIn-Let%27s%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<br><br>
-
-<h3>📈 My GitHub Journey</h3>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aqimsyz&hide_border=true&area=true" width="95%"/>
 
 <br><br>
 

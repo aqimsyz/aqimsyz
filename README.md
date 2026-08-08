@@ -2,11 +2,9 @@
 
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&center=true&vCenter=true&width=600&lines=Building+Web+Experiences+%F0%9F%92%BB;Turning+Ideas+Into+Digital+Solutions+%E2%9C%A8;Always+Learning.+Always+Building." />
+
 <br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=1100&pause=400&color=39FF14&background=0D1117&vCenter=true&multiline=true&repeat=true&width=700&height=135&lines=%3E+initializing+aqimsyz...;%3E+loading+web+environment...;%3E+compiling+ideas...;%3E+status%3A+ready+to+build+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25" />
-
-<br><br>
 
 <p>
 Final-year <b>Information Systems Management</b> student<br>
@@ -24,8 +22,8 @@ focused on building clean, responsive and functional websites.
 <h3>✦ What I Do</h3>
 
 <p>
-🌐 Web Development &nbsp;•&nbsp;
-🎨 UI/UX &nbsp;•&nbsp;
+🌐 Web Development  • 
+🎨 UI/UX  • 
 📊 Data Analytics
 </p>
 
@@ -34,15 +32,15 @@ focused on building clean, responsive and functional websites.
 <h3>🐍 My Contribution Journey</h3>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aqimsyz/aqimsyz/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aqimsyz/aqimsyz/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/aqimsyz/aqimsyz/output/github-contribution-grid-snake.svg">
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aqimsyz/aqimsyz/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aqimsyz/aqimsyz/output/github-contribution-grid-snake.svg">
+<img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/aqimsyz/aqimsyz/output/github-contribution-grid-snake.svg">
 </picture>
 
 <br><br>
 
 <h3>
-  <code>Think → Design → Build → Improve.</code>
+<code>Think → Design → Build → Improve.</code>
 </h3>
 
 </div>

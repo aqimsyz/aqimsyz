@@ -50,6 +50,15 @@ focused on building clean, responsive and functional websites.
 <img src="https://raw.githubusercontent.com/aqimsyz/aqimsyz/output/github-contribution-grid-snake.svg" />
 
 <br><br>
+<br>
+
+<h3 align="center">🐍 My Contribution Journey</h3>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aqimsyz/aqimsyz/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aqimsyz/aqimsyz/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aqimsyz/aqimsyz/output/github-contribution-grid-snake.svg">
+</picture>
 
 <h3>
 <code>Think → Design → Build → Improve.</code>

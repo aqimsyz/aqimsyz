@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&center=true&vCenter=true&width=600&lines=Building+Web+Experiences+%F0%9F%92%BB;Turning+Ideas+Into+Digital+Solutions+%E2%9C%A8;Always+Learning.+Always+Building." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&center=true&vCenter=true&width=600&lines=Building+Web+Experiences+%F0%9F%92%BB;Turning+Ideas+Into+Digital+Solutions;Always+Learning.+Always+Building." />
 
 <br>
 

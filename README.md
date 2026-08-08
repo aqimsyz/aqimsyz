@@ -39,12 +39,6 @@ focused on building clean, responsive and functional websites.
 
 <br><br>
 
-<h3>📈 My GitHub Journey</h3>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aqimsyz&hide_border=true&area=true" width="95%"/>
-
-<br><br>
-
 <h3>🐍 My Contribution Journey</h3>
 
 <picture>

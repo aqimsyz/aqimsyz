@@ -13,8 +13,6 @@ focused on building clean, responsive and functional websites.
 
 <br>
 
-<h3>⚡ Tech Stack</h3>
-
 <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,figma,git,github,vscode" />
 
 <br><br>

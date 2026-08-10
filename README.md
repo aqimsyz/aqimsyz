@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=AQIM&fontSize=55&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Information%20Systems%20Management&descAlignY=58&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=AQIMSYZ&fontSize=55&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Information%20Systems%20Management&descAlignY=58&descSize=18"/>
 
 <div align="center">
 
